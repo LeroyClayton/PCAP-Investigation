@@ -113,9 +113,12 @@
 
 ![Attacker Uploaded File Through Edit Profile](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/f0ae9e8a-3114-4e39-b4e3-df7b208ca369)
 
-**Step 18:** The upload showed submitted.
+**Step 18:** The upload shows submitted.
+
+
 ![Upload was sumbitted](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/33fbfb26-fbfa-435b-bb82-b2b8f9a7ea7e)
 
 ### Summary
 
+It's clear from looking at a PCAP file that the attacker used SQL injection techniques to get around security and read a password file without authorization. The infected file was then uploaded by the intruder, so endangering the system's sensitive data's confidentiality and integrity.
 
