@@ -95,5 +95,27 @@
 
 ![Gobuster Finished At Time 16'34'06](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/5d019c76-f464-4c27-ab50-0539855b11d6)
 
-**Step 14:**
+**Step 14:** A upload was found to the directory.
+
+![Upload Directory was found](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/b03331d6-2c21-4776-ab5b-8065faa0e883)
+
+**Step 15:** A SQL map was used (Sqlmap is a software utility for automated discovering of SQL injection vulnerabilities in web applicatons.)
+
+![SQL Map Was Used Not Good 16'36'17](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/7808fe61-d03b-4264-a39a-966e9cd0a586)
+
+
+**Step 16:** Making Use of a URL Decoder I discovered that there had been an attempt to access a passwords folder.
+
+![Using A Decoder Found This](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/859c0457-b00e-48b1-b693-6210088e1593)
+
+
+**Step 17:** The attacker used the edit profile button to upload a file.
+
+![Attacker Uploaded File Through Edit Profile](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/f0ae9e8a-3114-4e39-b4e3-df7b208ca369)
+
+**Step 18:** The upload showed submitted.
+![Upload was sumbitted](https://github.com/LeroyClayton/PCAP-Investigation/assets/118240301/33fbfb26-fbfa-435b-bb82-b2b8f9a7ea7e)
+
+### Summary
+
 
